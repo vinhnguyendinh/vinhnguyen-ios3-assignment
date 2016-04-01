@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  HelloWorld
+//  Demo
 //
-//  Created by Admin on 3/26/16.
-//  Copyright © 2016 Techkids. All rights reserved.
+//  Created by Vinh Nguyen Dinh on 4/1/16.
+//  Copyright © 2016 VinhNguyen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
